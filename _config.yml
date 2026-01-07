@@ -1,0 +1,13 @@
+title: The Shield
+description: Empowering individuals to thrive in the digital age
+baseurl: ""
+url: ""
+
+markdown: kramdown
+plugins: []
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
